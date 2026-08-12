@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sun Kim 👋
 
-<!--
-**artmix77/artmix77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FOH Sound Director · Hardware Designer · App Developer**
 
-Here are some ideas to get you started:
+Korea-based FOH sound director. Working with ATEEZ, JO1, 성시경, 김종국.<br>
+Building Bluewave on the side — tools for the stage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-@sun__kim__1977-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sun_kim_1977)
+
+---
+
+## 🎧 What I Do
+
+- **Live Sound** — FOH mixing for major K-pop and pop concerts
+- **Apps** — Building utilities I actually need on the road
+- **Hardware** — Designing and building GPO/GPI boxes, console accessories, and custom stage tools under the Bluewave brand
+
+---
+
+## 📱 Bluewave Apps
+
+| App | Description | Platform | Status |
+|-----|-------------|----------|--------|
+| **Bluewave Lift** | Personal workout tracker built for the gym | macOS | ✅ Released |
+| **Bluewave Desktop** | Project management app for freelancers | macOS · Windows | 🔨 90% Complete |
+| **Bluewave Lyrics** | Lyrics display app with MIDI / timecode-based page turning for live shows | TBD | 🗓 Coming Soon |
+
+---
+
+## 🔧 Hardware Projects
+
+- **GPO LED Box** — GPIO signal indicator with visual feedback
+- **DiGiCo Console Laptop Deck** — Custom laptop shelf for DiGiCo consoles
+- **PTT Pedal** — Push-to-talk foot pedal for comms systems
+
+---
+
+<sub>Building things for the stage, one commit at a time.</sub>
