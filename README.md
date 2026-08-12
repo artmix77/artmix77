@@ -35,4 +35,4 @@ Building Bluewave on the side — tools for the stage.
 
 ---
 
-<sub>Building things for the stage, one commit at a time.</sub>
+<sub>One show at a time.</sub>
