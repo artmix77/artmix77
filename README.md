@@ -21,7 +21,7 @@ Building Bluewave on the side — tools for the stage.
 
 | App | Description | Platform | Status |
 |-----|-------------|----------|--------|
-| **Bluewave Lift** | Personal workout tracker built for the gym | macOS | ✅ Released |
+| **Bluewave Lift** | Personal workout tracker built for the gym | iOS | ✅ Released |
 | **Bluewave Desktop** | Project management app for freelancers | macOS · Windows | 🔨 90% Complete |
 | **Bluewave Lyrics** | Lyrics display app with MIDI / timecode-based page turning for live shows | TBD | 🗓 Coming Soon |
 
